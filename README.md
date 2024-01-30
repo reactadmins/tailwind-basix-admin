@@ -1,2 +1,2 @@
-# basix-admin-bootstrap
-React.js Basix Admin Bootstrap version
+# reactjs-basix-admin-tailwind
+React.js Basix Admin Tailwind version
